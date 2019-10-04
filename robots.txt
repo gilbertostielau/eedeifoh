@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahhoilul.thomasnagengast.com/sitemap.xml
